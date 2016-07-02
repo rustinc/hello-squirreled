@@ -1,3 +1,5 @@
 # hello-squirreled
 
-//This is a simple project.
+This is a very simple project.
+
+Big fan.
